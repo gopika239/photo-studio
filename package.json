@@ -1,0 +1,16 @@
+{
+  "name": "arclight-studios",
+  "version": "1.0.0",
+  "description": "ARCLIGHT STUDIOS — Premium Photography Studio Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000 --open=index.html --watch=index.html,style.css,script.js",
+    "dev": "npm start"
+  },
+  "keywords": ["photography", "studio", "portfolio"],
+  "author": "ARCLIGHT STUDIOS",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
